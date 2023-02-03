@@ -1,0 +1,28 @@
+body {
+    background-image:url('../img/spaceback.gif'); text-align: center;
+}
+
+
+h1 {
+    color: red; 
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+  }
+
+h2 {
+    color: red; 
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+  }
+
+p {
+    color: red; 
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 35px;
+}
+  }
+
+#enter_button{
+    background-color:#333333;
+    color:#00FF00;
+    border-radius:5px;
+    font-size: 25px;
+}
