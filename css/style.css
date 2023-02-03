@@ -18,9 +18,8 @@ p {
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     font-size: 35px;
 }
-  }
 
-#enter_button{
+#enter_button { 
     background-color:#333333;
     color:#00FF00;
     border-radius:5px;
